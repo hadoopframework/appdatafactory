@@ -1,0 +1,9 @@
+{
+	"name": "hadoopframework-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c5025f4-85a3-46f5-9fb6-ecb6b2abd0f2",
+		"tenantId": "47f1772f-dbc9-4874-bb44-24273840ead2"
+	}
+}
