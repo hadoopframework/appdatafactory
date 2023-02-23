@@ -1,0 +1,9 @@
+{
+	"name": "appdbdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19c8dea1-a6af-4e6f-8260-0fa5d7801aa5",
+		"tenantId": "47f1772f-dbc9-4874-bb44-24273840ead2"
+	}
+}

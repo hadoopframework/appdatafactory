@@ -1,0 +1,25 @@
+{
+	"name": "Trigger_l3d",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "df_from_azureSQL_to_SA",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 15,
+				"startTime": "2023-02-23T01:26:00Z",
+				"endTime": "2023-02-25T01:26:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}
